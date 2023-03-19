@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CGMSIM tutorial'
+project = 'CGMSIM'
 copyright = '2023, Lorenzo Sandini'
 author = 'Lorenzo Sandini'
 release = '0.1'
